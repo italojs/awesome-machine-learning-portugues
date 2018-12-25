@@ -41,8 +41,6 @@ Muito das pessoas que querem entra no mundo de machine learning começam pelo ma
 
 Aqui você encontrará um lista já pronta de assunos a serem estudados, tudo na ordem correta, assim você não terá de gastar tempo aprendendo a aprender machine learning.
 
-Pense sobre meu interesse em Machine Learning:
-
 - [Posso aprender e arrumar um emprego em Machine Learning sem estudar mestrado e Phd em Ciência da Computação?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
     - *"Você pode, mas isto é muito mais difícil do que quando eu entrei no campo."* [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
 
