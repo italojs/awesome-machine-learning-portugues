@@ -37,7 +37,7 @@ Por favor, sinta-se livre para fazer qualquer contribuição que você achar que
 
 ## Por que usar?
 
-Muito das pessoas que querem entra no mundo de machine learning começam pelo mais avançado que há, redes neurais com algum framwork(tensorflow, CNTK, pytorch e etc), mas antes de chegar em redes neurais é importante que você passe por outros assuntos mais básicos para então chegar a desenvolver uma rede neural de fato, ou pelo menos entender o que vocÇE está fazendo.
+Muito das pessoas que querem entra no mundo de machine learning começam pelo mais avançado que há, redes neurais com algum framwork(tensorflow, CNTK, pytorch e etc), mas antes de chegar em redes neurais é importante que você passe por outros assuntos mais básicos para então chegar a desenvolver uma rede neural de fato, ou pelo menos entender o que você está fazendo.
 
 Aqui você encontrará um lista já pronta de assunos a serem estudados, tudo na ordem correta, assim você não terá de gastar tempo aprendendo a aprender machine learning.
 
