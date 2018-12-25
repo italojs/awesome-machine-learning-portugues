@@ -1,4 +1,8 @@
-﻿Créditos: Essa awesome foi inspirado em [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md).
+﻿#Plano de estudos em machine learning com conteúdos em português.
+
+### Créditos: 
+
+Essa awesome foi inspirado em [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md).
 A diferença é aqui aqui você encontrará conteúdos em português para seus estudos.
 
 _Se você gostou deste projeto, por favor me dê uma estrela_ &#9733; _e ajude a divulgar o material._ ;)
