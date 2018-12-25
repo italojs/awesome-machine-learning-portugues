@@ -90,7 +90,7 @@ Para aprender machine learning, vocÇe terá de aprender matemica, mas não se p
 - [Teorema de Bayes (Aula 7) Vídeo Correção - Nomenclaturas](https://www.youtube.com/watch?v=Wcb4_pnADEE&index=7&list=PL4OAe-tL47sadpBP4atfVFBbKm-Fh160J)
 - [Teorema de Bayes (Aula 8) - Bayes Sequencial](https://www.youtube.com/watch?v=Y1DnDnCYeQU&list=PL4OAe-tL47sadpBP4atfVFBbKm-Fh160J&index=8)
 - [Naive Bayes | Carlos Baldove | Papo Reto](https://www.youtube.com/watch?v=3HJVRBEMwoU)
--[Classificador Naive bayes em 50 linhas](https://imasters.com.br/desenvolvimento/classificador-naive-bayes-em-50-linhas)
+- [Classificador Naive bayes em 50 linhas](https://imasters.com.br/desenvolvimento/classificador-naive-bayes-em-50-linhas)
 
 ## Suport vector machine(SVM)
 
