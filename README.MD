@@ -74,6 +74,10 @@ Para aprender machine learning, vocÇe terá de aprender matemica, mas não se p
 
 ## Arvore de decisão
 
+- [Árvores de Decisão](https://medium.com/machine-learning-beyond-deep-learning/%C3%A1rvores-de-decis%C3%A3o-3f52f6420b69)
+- [ÁRVORE DE DECISÃO. EXEMPLO COMPLETO](https://www.youtube.com/watch?v=_ICNdRrl68k)
+- [Um tutorial completo sobre modelagem baseada em árvores de decisão (códigos R e Python)](https://www.vooo.pro/insights/um-tutorial-completo-sobre-a-modelagem-baseada-em-tree-arvore-do-zero-em-r-python/)
+
 ## KNN
 - [KNN (K-Nearest Neighbors) #1](https://medium.com/brasil-ai/knn-k-nearest-neighbors-1-e140c82e9c4e)
 - [KNN (K-Nearest Neighbors) #2](https://medium.com/brasil-ai/knn-k-nearest-neighbors-2-f2ab9e5662b)
