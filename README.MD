@@ -33,6 +33,9 @@ Por favor, sinta-se livre para fazer qualquer contribuição que você achar que
     - [Multlayer perceptron](#Multlayer-perceptron)
     - [Redes neurais convolucionais](#Redes-neurais-convolucionais)
     - [Rede neurais recorrentes](#Rede-neurais-recorrentes)
+- [Machine learning não superviosionado](#Machine-learning-não-superviosionado)
+- [Data visualization](#Data-visualization)
+
 ---
 
 ## Por que usar?
@@ -100,7 +103,11 @@ Para aprender machine learning, vocÇe terá de aprender matemica, mas não se p
 
 ## Redes neurais convolucionais
 
-## Rede neurais recorrentes
+## Rede neurais recorrentess
+
+# Machine learning não superviosionado
+
+# Data visualization
 
 
 
