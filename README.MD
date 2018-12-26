@@ -31,6 +31,7 @@ Agora vamos estudar machine learning até o talo! :punch:
 - [Como usar? :interrobang:](#como-usar)
 - [Não sinta que não é inteligente o bastante :poop:](#não-sinta-que-não-é-inteligente-o-bastante)
 - [Assuntos introdutórios :baby:](#Assuntos-introdutórios)
+    - [classificação vs predição](#classificação-vs-predição)
 - [Machine learning superviosionado](#Machine-learning-superviosionado)
     - [Árvore de decisão](#Árvore-de-decisão)
     - [KNN](#KNN)
@@ -39,6 +40,8 @@ Agora vamos estudar machine learning até o talo! :punch:
     - [Regressão linear](#Regressão-linear)
     - [Perceptron](#Perceptron)
     - [Regressão logística](#Regressão-logística)
+    - [Função de custo](#Função-de-custo)
+    - [Gradient Descent](#Gradient-Descent)
     - [Multilayer perceptron](#Multilayer-perceptron)
     - [Redes neurais convolucionais](#Redes-neurais-convolucionais)
     - [Rede neurais recorrentes](#Rede-neurais-recorrentes)
@@ -120,7 +123,7 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Naive Bayes | Carlos Baldove | Papo Reto](https://www.youtube.com/watch?v=3HJVRBEMwoU)
 - [Classificador Naive bayes em 50 linhas](https://imasters.com.br/desenvolvimento/classificador-naive-bayes-em-50-linhas)
 
-## support vector machine(SVM)
+## Support vector machine(SVM)
 - [Uma Introdução às Support Vector Machines](https://www.mql5.com/pt/articles/584)
 - [Explicar o algoritmo SVR](https://pt.stackoverflow.com/a/40149/20728)
 - [Máquina de Vetores de Suporte - SVM](https://www.youtube.com/watch?v=4Zh7UeHqHvc)
@@ -141,7 +144,10 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Máquina de vetores de suporte(código)](http://artificiencia.com/aprenda/maquina-de-vetores-de-suporte/)
 
 ## Regressão logística
-- []()
+- [O que é uma regressão logística?](http://carloscollares.blogspot.com/2011/05/o-que-e-uma-regressao-logistica.html)
+- [EB - Aula 6 Teórica - Regressão logística](https://www.youtube.com/watch?v=Fs8LhzhEMwI)
+- [Você sobreviveria no Titanic? Um exemplo de Regressão Logística](http://www.abgconsultoria.com.br/blog/voce-sobreviveria-no-titanic-um-exemplo-de-regressao-logistica/)
+- [Regressão Logística na Eleição](https://medium.com/@silviocesar_75950/regress%C3%A3o-log%C3%ADstica-na-elei%C3%A7%C3%A3o-3d8011469712)
 
 ## Função de custo
 - [Função de Custo (Regressão Linear) - Machine Learning em Português (Aula 14)](https://www.youtube.com/watch?v=jSaJjshIAUw)
@@ -152,6 +158,7 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Gradient Descent (Regressão Linear - Parte 1) - Machine Learning (Aula 17)](https://www.youtube.com/watch?v=xdDL_8Sg6JI&t=404s)
 - [Calculando Gradient Descent Parte 1 (Regressão Linear) - Machine Learning (Aula 18)](https://www.youtube.com/watch?v=6lbX-MI5B6M)
 - [Como verificar o Gradient Descent (Regressão Linear) - Machine Learning (Aula 20)](https://www.youtube.com/watch?v=yraCrOa3mzk)
+
 ## Multilayer perceptron
 - [Redes Neurais, Perceptron Multicamadas e o Algoritmo Backpropagation](https://medium.com/ensina-ai/redes-neurais-perceptron-multicamadas-e-o-algoritmo-backpropagation-eaf89778f5b8)
 
