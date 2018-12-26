@@ -26,11 +26,11 @@ Agora vamos estudar machine learning até o talo! :punch:
 
 ## Tabela de conteúdo :ballot_box_with_check:
 
-- [O que é?](#o-que-é)
-- [Por que usar?](#por-que-usar)
-- [Como usar](#como-usar)
-- [Não sinta que não é inteligente o bastante](#não-sinta-que-não-é-inteligente-o-bastante)
-- [Assuntos introdutórios](#Assuntos-introdutórios)
+- [O que é? :interrobang:](#o-que-é)
+- [Por que usar? :interrobang:](#por-que-usar)
+- [Como usar? :interrobang:](#como-usar)
+- [Não sinta que não é inteligente o bastante :poop:](#não-sinta-que-não-é-inteligente-o-bastante)
+- [Assuntos introdutórios :baby:](#Assuntos-introdutórios)
 - [Machine learning superviosionado](#Machine-learning-superviosionado)
     - [Árvore de decisão](#Árvore-de-decisão)
     - [KNN](#KNN)
@@ -47,7 +47,7 @@ Agora vamos estudar machine learning até o talo! :punch:
 
 ---
 
-## Por que usar? :interrobang:
+## Por que usar?
 
 Muito das pessoas que querem entra no mundo de machine learning começam pelo mais avançado que há, redes neurais com algum framwork(tensorflow, CNTK, pytorch e etc), mas antes de chegar em redes neurais é importante que você passe por outros assuntos mais básicos para então chegar a desenvolver uma rede neural de fato, ou pelo menos entender o que você está fazendo.
 
@@ -73,13 +73,13 @@ Eu acho que a melhor maneira para metodologia centrada na prática é algo como 
 
 É um plano longo. Isso vai demorar anos para mim. Se você já está familiarizado com bastante disso já, você levará muito menos tempo.
 
-## Como usar :interrobang:
+## Como usar?
 Tudo abaixo é uma estrutura de tópicos, e você deve enfrentar os itens em ordem de cima para baixo.
 
-## Não sinta que não é inteligente o bastante :poop:
+## Não sinta que não é inteligente o bastante 
 Para aprender machine learning, vocÇe terá de aprender matemica, mas não se preocupe, não é tão difícil quanto parece, caso você descorde de mim, leia esse [artigo](https://medium.com/machina-sapiens/aprendendo-ia-se-voc%C3%AA-n%C3%A3o-%C3%A9-bom-em-matem%C3%A1tica-39ac167bc738)
 
-# Assuntos introdutórios :baby:
+# Assuntos introdutórios
 - [O que é machine learning?](https://medium.com/brasil-ai/o-que-%C3%A9-machine-learning-94cc71c2a6e3)
 - [Tipos de dados do seu dataset](https://medium.com/brasil-ai/antes-de-come%C3%A7armos-a-falar-sobre-tipos-de-aprendizados-que-veremos-no-pr%C3%B3ximo-artigo-%C3%A9-ea5b04685913)
 - [Tipos de aprendizagem](https://medium.com/brasil-ai/tipos-de-aprendizagem-1c1339f73bdf)
