@@ -35,11 +35,11 @@ Agora vamos estudar machine learning até o talo! :punch:
     - [Árvore de decisão](#Árvore-de-decisão)
     - [KNN](#KNN)
     - [Naive bayes](#Naive-bayes)
-    - [Suport vector machine(SVM)](#Suport-vector-machine(SVM))
+    - [Support vector machine(SVM)](#Support-vector-machine(SVM))
     - [Regressão linear](#Regressão-linear)
     - [Perceptron](#Perceptron)
     - [Regressão logística](#Regressão-logística)
-    - [Multlayer perceptron](#Multlayer-perceptron)
+    - [Multilayer perceptron](#Multilayer-perceptron)
     - [Redes neurais convolucionais](#Redes-neurais-convolucionais)
     - [Rede neurais recorrentes](#Rede-neurais-recorrentes)
 - [Machine learning não superviosionado](#Machine-learning-não-superviosionado)
@@ -77,7 +77,7 @@ Eu acho que a melhor maneira para metodologia centrada na prática é algo como 
 Tudo abaixo é uma estrutura de tópicos, e você deve enfrentar os itens em ordem de cima para baixo.
 
 ## Não sinta que não é inteligente o bastante 
-Para aprender machine learning, vocÇe terá de aprender matemica, mas não se preocupe, não é tão difícil quanto parece, caso você descorde de mim, leia esse [artigo](https://medium.com/machina-sapiens/aprendendo-ia-se-voc%C3%AA-n%C3%A3o-%C3%A9-bom-em-matem%C3%A1tica-39ac167bc738)
+Para aprender machine learning, você terá de aprender matemática, mas não se preocupe, não é tão difícil quanto parece, caso você discorde de mim, leia esse [artigo](https://medium.com/machina-sapiens/aprendendo-ia-se-voc%C3%AA-n%C3%A3o-%C3%A9-bom-em-matem%C3%A1tica-39ac167bc738)
 
 # Assuntos introdutórios
 - [O que é machine learning?](https://medium.com/brasil-ai/o-que-%C3%A9-machine-learning-94cc71c2a6e3)
@@ -112,7 +112,7 @@ Para aprender machine learning, vocÇe terá de aprender matemica, mas não se p
 - [Naive Bayes | Carlos Baldove | Papo Reto](https://www.youtube.com/watch?v=3HJVRBEMwoU)
 - [Classificador Naive bayes em 50 linhas](https://imasters.com.br/desenvolvimento/classificador-naive-bayes-em-50-linhas)
 
-## Suport vector machine(SVM)
+## support vector machine(SVM)
 
 ## Regressão linear
 - [Regressão linear simples](https://medium.com/ensina-ai/regress%C3%A3o-linear-simples-4cac67c4488c)
@@ -125,7 +125,7 @@ Para aprender machine learning, vocÇe terá de aprender matemica, mas não se p
 
 ## Regressão logística
 
-## Multlayer perceptron
+## Multilayer perceptron
 - [Redes Neurais, Perceptron Multicamadas e o Algoritmo Backpropagation](https://medium.com/ensina-ai/redes-neurais-perceptron-multicamadas-e-o-algoritmo-backpropagation-eaf89778f5b8)
 
 ## Redes neurais convolucionais
