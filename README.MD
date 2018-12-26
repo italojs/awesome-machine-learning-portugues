@@ -46,7 +46,6 @@ Agora vamos estudar machine learning até o talo! :punch:
     - [Redes neurais convolucionais](#Redes-neurais-convolucionais)
     - [Rede neurais recorrentes](#Rede-neurais-recorrentes)
 - [Machine learning não superviosionado](#Machine-learning-não-superviosionado)
-- [Data visualization](#Data-visualization)
 
 ---
 
