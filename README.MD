@@ -8,7 +8,7 @@ A diferença é aqui aqui você encontrará conteúdos em português para seus e
 _Se você gostou deste projeto, por favor me dê uma estrela_ &#9733; _e ajude a divulgar o material._ ;)
 
 <a href="https://twitter.com/intent/tweet?text=Plano%20de%20estudos%20para%20Machine%20Learning%20com%20cont%C3%BAdos%20em%20portugu%C3%AAs%20https://github.com/ZuzooVn/guia-estudos-machine-learning-portgues" target="_blank">
-Compartilhe no Twitter</a>
+Compartilhe no Twitter</a> :bird:
 
 ## O que é?
 
@@ -18,18 +18,27 @@ Por favor, sinta-se livre para fazer qualquer contribuição que você achar que
 
 ---
 
-## Tabela de conteúdo
+## Alfinetada/lembrete
+
+Fulano(a), sei que não é fácil aprender inglês, mas só queria lembrar que você está perdendo MUITO conteúdo em não focar nessa língua, você perde muito conteúdo e o assuntos que consegue estudar em inglês muito provavelmente são assuntos atrasado, não quero que você pare de estudar machine learning (programação em geral na verdade), mas olha, começa a se cobra um pouco mais nese ponto :wink:
+
+Agora vamos estudar machine learning até o talo! :punch:
+
+## Tabela de conteúdo :ballot_box_with_check:
 
 - [O que é?](#o-que-é)
 - [Por que usar?](#por-que-usar)
 - [Como usar](#como-usar)
 - [Não sinta que não é inteligente o bastante](#não-sinta-que-não-é-inteligente-o-bastante)
+- [Assuntos introdutórios](#Assuntos-introdutórios)
 - [Machine learning superviosionado](#Machine-learning-superviosionado)
-    - [Arvore de decisão](#Arvore-de-decisão)
+    - [Árvore de decisão](#Árvore-de-decisão)
     - [KNN](#KNN)
     - [Naive bayes](#Naive-bayes)
     - [Suport vector machine(SVM)](#Suport-vector-machine(SVM))
+    - [Regressão linear](#Regressão-linear)
     - [Perceptron](#Perceptron)
+    - [Regressão logística](#Regressão-logística)
     - [Multlayer perceptron](#Multlayer-perceptron)
     - [Redes neurais convolucionais](#Redes-neurais-convolucionais)
     - [Rede neurais recorrentes](#Rede-neurais-recorrentes)
@@ -38,7 +47,7 @@ Por favor, sinta-se livre para fazer qualquer contribuição que você achar que
 
 ---
 
-## Por que usar?
+## Por que usar? :interrobang:
 
 Muito das pessoas que querem entra no mundo de machine learning começam pelo mais avançado que há, redes neurais com algum framwork(tensorflow, CNTK, pytorch e etc), mas antes de chegar em redes neurais é importante que você passe por outros assuntos mais básicos para então chegar a desenvolver uma rede neural de fato, ou pelo menos entender o que você está fazendo.
 
@@ -64,15 +73,22 @@ Eu acho que a melhor maneira para metodologia centrada na prática é algo como 
 
 É um plano longo. Isso vai demorar anos para mim. Se você já está familiarizado com bastante disso já, você levará muito menos tempo.
 
-## Como usar
+## Como usar :interrobang:
 Tudo abaixo é uma estrutura de tópicos, e você deve enfrentar os itens em ordem de cima para baixo.
 
-## Não sinta que não é inteligente o bastante
+## Não sinta que não é inteligente o bastante :poop:
 Para aprender machine learning, vocÇe terá de aprender matemica, mas não se preocupe, não é tão difícil quanto parece, caso você descorde de mim, leia esse [artigo](https://medium.com/machina-sapiens/aprendendo-ia-se-voc%C3%AA-n%C3%A3o-%C3%A9-bom-em-matem%C3%A1tica-39ac167bc738)
+
+# Assuntos introdutórios :baby:
+- [O que é machine learning?](https://medium.com/brasil-ai/o-que-%C3%A9-machine-learning-94cc71c2a6e3)
+- [Tipos de dados do seu dataset](https://medium.com/brasil-ai/antes-de-come%C3%A7armos-a-falar-sobre-tipos-de-aprendizados-que-veremos-no-pr%C3%B3ximo-artigo-%C3%A9-ea5b04685913)
+- [Tipos de aprendizagem](https://medium.com/brasil-ai/tipos-de-aprendizagem-1c1339f73bdf)
+- [Uma breve introdução ao Machine Learning](https://www.youtube.com/watch?v=WgUrONLhons)
+- [As 10 Principais Arquiteturas de Redes Neurais](http://deeplearningbook.com.br/as-10-principais-arquiteturas-de-redes-neurais/)
 
 # Machine learning superviosionado
 
-## Arvore de decisão
+## Árvore de decisão
 
 - [Árvores de Decisão](https://medium.com/machine-learning-beyond-deep-learning/%C3%A1rvores-de-decis%C3%A3o-3f52f6420b69)
 - [ÁRVORE DE DECISÃO. EXEMPLO COMPLETO](https://www.youtube.com/watch?v=_ICNdRrl68k)
@@ -98,22 +114,33 @@ Para aprender machine learning, vocÇe terá de aprender matemica, mas não se p
 
 ## Suport vector machine(SVM)
 
+## Regressão linear
+- [Regressão linear simples](https://medium.com/ensina-ai/regress%C3%A3o-linear-simples-4cac67c4488c)
+
 ## Perceptron
 - [Redes neurais roots #1 — introdução](https://medium.com/ensina-ai/redes-neurais-roots-1-introdu%C3%A7%C3%A3o-ffdd6f8b9f01)
 - [Redes neurais roots #2— Treinamento](https://medium.com/ensina-ai/redes-neurais-roots-2-treinamento-3161a439c4f3)
 - [Redes neurais roots #3 — Show me the code](https://medium.com/ensina-ai/redes-neurais-roots-3-show-me-the-code-e56359310083)
+- [Aula - Perceptron e Adaline](https://www.youtube.com/watch?v=6yYUc6nU3Cw&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=2&t=0s)
+
+## Regressão logística
 
 ## Multlayer perceptron
+- [Redes Neurais, Perceptron Multicamadas e o Algoritmo Backpropagation](https://medium.com/ensina-ai/redes-neurais-perceptron-multicamadas-e-o-algoritmo-backpropagation-eaf89778f5b8)
 
 ## Redes neurais convolucionais
+- [Redes Neurais profundas Convolucionais - Parte I - Fundamentos](https://www.youtube.com/watch?v=n4rmrZg1_58&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=5&t=1s)
+- [Redes Neurais profundas Convolucionais - Parte II - Arquiteturas Modernas](https://www.youtube.com/watch?v=0XUrLfQXzcw&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=5)
+- [Parametrização de redes neurais profundas](https://www.youtube.com/watch?v=qDmKwmkc4vs&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=7)
 
-## Rede neurais recorrentess
+
+- Extra: [Arquiteturas de redes neurais profundas para detecção de objetos](https://www.youtube.com/watch?v=BhwppCyV2iI&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=8)
+
+## Rede neurais recorrentes
+- [Redes Neurais Recorrentes (RNN) - LSTM, GRU, Seq2seq e Mecanismos de atenção](https://www.youtube.com/watch?v=94hG00EJFNo&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=6)
+- [Redes Neurais Recorrentes(tem código)](https://www.youtube.com/watch?v=bDDP0m4jjH0)
+- [Keras - Usando redes neurais LSTM para classificar sentimentos](https://www.youtube.com/watch?v=bIcadBu--u8)
 
 # Machine learning não superviosionado
 
 # Data visualization
-
-
-
-
-
