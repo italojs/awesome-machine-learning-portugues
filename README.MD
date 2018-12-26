@@ -27,10 +27,10 @@ Agora vamos estudar machine learning até o talo! :punch:
 ## Tabela de conteúdo :ballot_box_with_check:
 
 - [O que é?](#o-que-é)
-- [Por que usar?](#por-que-usar-:interrobang:)
-- [Como usar](#como-usar-:interrobang:)
-- [Não sinta que não é inteligente o bastante](#não-sinta-que-não-é-inteligente-o-bastante-:poop:)
-- [Assuntos introdutórios](#Assuntos-introdutórios-:baby:)
+- [Por que usar?](#por-que-usar)
+- [Como usar](#como-usar)
+- [Não sinta que não é inteligente o bastante](#não-sinta-que-não-é-inteligente-o-bastante)
+- [Assuntos introdutórios](#Assuntos-introdutórios)
 - [Machine learning superviosionado](#Machine-learning-superviosionado)
     - [Árvore de decisão](#Árvore-de-decisão)
     - [KNN](#KNN)
@@ -47,7 +47,7 @@ Agora vamos estudar machine learning até o talo! :punch:
 
 ---
 
-## Por que usar :interrobang:
+## Por que usar? :interrobang:
 
 Muito das pessoas que querem entra no mundo de machine learning começam pelo mais avançado que há, redes neurais com algum framwork(tensorflow, CNTK, pytorch e etc), mas antes de chegar em redes neurais é importante que você passe por outros assuntos mais básicos para então chegar a desenvolver uma rede neural de fato, ou pelo menos entender o que você está fazendo.
 
