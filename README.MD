@@ -12,7 +12,7 @@ Compartilhe no Twitter</a> :bird:
 
 ## O que é?
 
-Este é um plano de estudos com conteúdos em português para aquels que não é conhecedor da língua inglesa.
+Este é um plano de estudos com conteúdos em português para aqueles que não são conhecedores da língua inglesa.
 
 Por favor, sinta-se livre para fazer qualquer contribuição que você achar que pode o tornar melhor.
 
