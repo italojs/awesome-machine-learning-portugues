@@ -146,6 +146,7 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 ## Regressão logística
 - [O que é uma regressão logística?](http://carloscollares.blogspot.com/2011/05/o-que-e-uma-regressao-logistica.html)
 - [EB - Aula 6 Teórica - Regressão logística](https://www.youtube.com/watch?v=Fs8LhzhEMwI)
+- [EB - Aula 6 prática - Regressão Logística](https://www.youtube.com/watch?v=CVL5vj1N1U8)
 - [Você sobreviveria no Titanic? Um exemplo de Regressão Logística](http://www.abgconsultoria.com.br/blog/voce-sobreviveria-no-titanic-um-exemplo-de-regressao-logistica/)
 - [Regressão Logística na Eleição](https://medium.com/@silviocesar_75950/regress%C3%A3o-log%C3%ADstica-na-elei%C3%A7%C3%A3o-3d8011469712)
 
