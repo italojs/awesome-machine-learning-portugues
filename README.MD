@@ -7,7 +7,7 @@ A diferença é aqui aqui você encontrará conteúdos em português para seus e
 
 _Se você gostou deste projeto, por favor me dê uma estrela_ &#9733; _e ajude a divulgar o material._ ;)
 
-<a href="https://twitter.com/intent/tweet?text=Plano%20de%20estudos%20para%20Machine%20Learning%20com%20cont%C3%BAdos%20em%20portugu%C3%AAs%20https://github.com/ZuzooVn/guia-estudos-machine-learning-portgues" target="_blank">
+<a href="https://twitter.com/intent/tweet?text=Plano%20de%20estudos%20para%20Machine%20Learning%20com%20cont%C3%BAdos%20em%20portugu%C3%AAs%20https://github.com/italojs/awesome-machine-learning-portugues" target="_blank">
 Compartilhe no Twitter</a> :bird:
 
 ## O que é?
@@ -75,6 +75,7 @@ Eu acho que a melhor maneira para metodologia centrada na prática é algo como 
 
 ## Como usar?
 Tudo abaixo é uma estrutura de tópicos, e você deve enfrentar os itens em ordem de cima para baixo.
+Não precisa ver todos os links, mas você tem que entender cada um dos tópicos.
 
 ## Não sinta que não é inteligente o bastante 
 Para aprender machine learning, você terá de aprender matemática, mas não se preocupe, não é tão difícil quanto parece, caso você discorde de mim, leia esse [artigo](https://medium.com/machina-sapiens/aprendendo-ia-se-voc%C3%AA-n%C3%A3o-%C3%A9-bom-em-matem%C3%A1tica-39ac167bc738)
@@ -85,6 +86,11 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Tipos de aprendizagem](https://medium.com/brasil-ai/tipos-de-aprendizagem-1c1339f73bdf)
 - [Uma breve introdução ao Machine Learning](https://www.youtube.com/watch?v=WgUrONLhons)
 - [As 10 Principais Arquiteturas de Redes Neurais](http://deeplearningbook.com.br/as-10-principais-arquiteturas-de-redes-neurais/)
+- [Machine Learning (Aula 3) - Aprendizado Supervisionado e não Supervisionado](https://www.youtube.com/watch?v=OWt8BW6Tb6o)
+
+## classificação vs predição
+- [Machine Learning (Aula 7) - Modelos de Predição](https://www.youtube.com/watch?v=2vRUdnQ1X74&t=278s)
+- [Machine Learning em Português (Aula 8) - Modelo de Classificação de Íris Parte 1](https://www.youtube.com/watch?v=WRQmC8QU_YU)
 
 # Machine learning superviosionado
 
@@ -98,6 +104,8 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [KNN (K-Nearest Neighbors) #1](https://medium.com/brasil-ai/knn-k-nearest-neighbors-1-e140c82e9c4e)
 - [KNN (K-Nearest Neighbors) #2](https://medium.com/brasil-ai/knn-k-nearest-neighbors-2-f2ab9e5662b)
 - [KNN #3 — Codando nosso classificador de câncer de mama](https://medium.com/brasil-ai/knn-3-codando-nosso-classificador-de-câncer-de-mama-eadd3b41b54b)
+- [Machine Learning em Português (Aula 11) - Explicando K-NN (Regressão e Classificação)](https://www.youtube.com/watch?v=bzIsfLgTEQw)
+- [Machine Learning em Português (Aula 15) - K-Nearest Neighbors (Regressão - Parte 2)](https://www.youtube.com/watch?v=Cz6NCHSY0Z0)
 
 ## Naive bayes
 - [Teorema de Bayes](https://www.youtube.com/watch?v=9OOZf4klOeM)
@@ -113,18 +121,37 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Classificador Naive bayes em 50 linhas](https://imasters.com.br/desenvolvimento/classificador-naive-bayes-em-50-linhas)
 
 ## support vector machine(SVM)
+- [Uma Introdução às Support Vector Machines](https://www.mql5.com/pt/articles/584)
+- [Explicar o algoritmo SVR](https://pt.stackoverflow.com/a/40149/20728)
+- [Máquina de Vetores de Suporte - SVM](https://www.youtube.com/watch?v=4Zh7UeHqHvc)
+- [SVM - Support Vector Machine Linear, Não Linear - Teoria](https://www.youtube.com/watch?v=cB__Oa85htg)
 
 ## Regressão linear
 - [Regressão linear simples](https://medium.com/ensina-ai/regress%C3%A3o-linear-simples-4cac67c4488c)
+- [Regressão Linear (Parte 1) - Machine Learning em Português (Aula 12)](https://www.youtube.com/watch?v=MgtIdBrf0v8)
+- [Regressão Linear (Parte 2) - Machine Learning (Aula 13)](https://www.youtube.com/watch?v=jh4m0WN-n48)
+- [Machine Learning (Aula 21) - Regressão Linear no R](https://www.youtube.com/watch?v=Km1HoKVkd6k)
 
 ## Perceptron
 - [Redes neurais roots #1 — introdução](https://medium.com/ensina-ai/redes-neurais-roots-1-introdu%C3%A7%C3%A3o-ffdd6f8b9f01)
 - [Redes neurais roots #2— Treinamento](https://medium.com/ensina-ai/redes-neurais-roots-2-treinamento-3161a439c4f3)
 - [Redes neurais roots #3 — Show me the code](https://medium.com/ensina-ai/redes-neurais-roots-3-show-me-the-code-e56359310083)
 - [Aula - Perceptron e Adaline](https://www.youtube.com/watch?v=6yYUc6nU3Cw&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=2&t=0s)
+- [Máquinas de vetores-suporte ](ftp://ftp.dca.fee.unicamp.br/pub/docs/vonzuben/ia353_1s13/topico8_1s2013.pdf)
+- [Máquina de vetores de suporte(código)](http://artificiencia.com/aprenda/maquina-de-vetores-de-suporte/)
 
 ## Regressão logística
+- []()
 
+## Função de custo
+- [Função de Custo (Regressão Linear) - Machine Learning em Português (Aula 14)](https://www.youtube.com/watch?v=jSaJjshIAUw)
+- [Calculando a Função de Custo (Regressão Linear) - Machine Learning (Aula 15)](https://www.youtube.com/watch?v=kHfhMsCoUus)
+- [Valor Mínimo da Função de Custo (Regressão Linear) - Machine Learning (Aula 16)](https://www.youtube.com/watch?v=ikmxun1t-HM)
+
+## Gradient Descent
+- [Gradient Descent (Regressão Linear - Parte 1) - Machine Learning (Aula 17)](https://www.youtube.com/watch?v=xdDL_8Sg6JI&t=404s)
+- [Calculando Gradient Descent Parte 1 (Regressão Linear) - Machine Learning (Aula 18)](https://www.youtube.com/watch?v=6lbX-MI5B6M)
+- [Como verificar o Gradient Descent (Regressão Linear) - Machine Learning (Aula 20)](https://www.youtube.com/watch?v=yraCrOa3mzk)
 ## Multilayer perceptron
 - [Redes Neurais, Perceptron Multicamadas e o Algoritmo Backpropagation](https://medium.com/ensina-ai/redes-neurais-perceptron-multicamadas-e-o-algoritmo-backpropagation-eaf89778f5b8)
 
@@ -142,5 +169,3 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Keras - Usando redes neurais LSTM para classificar sentimentos](https://www.youtube.com/watch?v=bIcadBu--u8)
 
 # Machine learning não superviosionado
-
-# Data visualization
