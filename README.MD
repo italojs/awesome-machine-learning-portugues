@@ -10,6 +10,8 @@ _Se você gostou deste projeto, por favor me dê uma estrela_ &#9733; _e ajude a
 <a href="https://twitter.com/intent/tweet?text=Plano%20de%20estudos%20para%20Machine%20Learning%20com%20cont%C3%BAdos%20em%20portugu%C3%AAs%20https://github.com/italojs/awesome-machine-learning-portugues" target="_blank">
 Compartilhe no Twitter</a> :bird:
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 ## O que é?
 
 Este é um plano de estudos com conteúdos em português para aqueles que não são conhecedores da língua inglesa.
@@ -46,9 +48,7 @@ Agora vamos estudar machine learning até o talo! :punch:
     - [Redes neurais convolucionais](#Redes-neurais-convolucionais)
     - [Rede neurais recorrentes](#Rede-neurais-recorrentes)
 - [Machine learning não superviosionado](#Machine-learning-não-superviosionado)
-
 ---
-
 ## Por que usar?
 
 Muito das pessoas que querem entra no mundo de machine learning começam pelo mais avançado que há, redes neurais com algum framwork(tensorflow, CNTK, pytorch e etc), mas antes de chegar em redes neurais é importante que você passe por outros assuntos mais básicos para então chegar a desenvolver uma rede neural de fato, ou pelo menos entender o que você está fazendo.
