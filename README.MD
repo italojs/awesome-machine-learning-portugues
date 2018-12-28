@@ -96,6 +96,9 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 
 # Machine learning Supervisionado
 
+## Adaboost
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Adaboost.ipynb)
+
 ## Árvore de decisão
 
 - [Árvores de Decisão](https://medium.com/machine-learning-beyond-deep-learning/%C3%A1rvores-de-decis%C3%A3o-3f52f6420b69)
