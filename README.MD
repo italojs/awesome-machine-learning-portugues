@@ -94,13 +94,14 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Machine Learning (Aula 7) - Modelos de Predição](https://www.youtube.com/watch?v=2vRUdnQ1X74&t=278s)
 - [Machine Learning em Português (Aula 8) - Modelo de Classificação de Íris Parte 1](https://www.youtube.com/watch?v=WRQmC8QU_YU)
 
-# Machine learning superviosionado
+# Machine learning Supervisionado
 
 ## Árvore de decisão
 
 - [Árvores de Decisão](https://medium.com/machine-learning-beyond-deep-learning/%C3%A1rvores-de-decis%C3%A3o-3f52f6420b69)
 - [ÁRVORE DE DECISÃO. EXEMPLO COMPLETO](https://www.youtube.com/watch?v=_ICNdRrl68k)
 - [Um tutorial completo sobre modelagem baseada em árvores de decisão (códigos R e Python)](https://www.vooo.pro/insights/um-tutorial-completo-sobre-a-modelagem-baseada-em-tree-arvore-do-zero-em-r-python/)
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Decision%20Trees.ipynb)
 
 ## KNN
 - [KNN (K-Nearest Neighbors) #1](https://medium.com/brasil-ai/knn-k-nearest-neighbors-1-e140c82e9c4e)
@@ -108,6 +109,7 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [KNN #3 — Codando nosso classificador de câncer de mama](https://medium.com/brasil-ai/knn-3-codando-nosso-classificador-de-câncer-de-mama-eadd3b41b54b)
 - [Machine Learning em Português (Aula 11) - Explicando K-NN (Regressão e Classificação)](https://www.youtube.com/watch?v=bzIsfLgTEQw)
 - [Machine Learning em Português (Aula 15) - K-Nearest Neighbors (Regressão - Parte 2)](https://www.youtube.com/watch?v=Cz6NCHSY0Z0)
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/KNN.ipynb)
 
 ## Naive bayes
 - [Teorema de Bayes](https://www.youtube.com/watch?v=9OOZf4klOeM)
@@ -128,11 +130,18 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Máquina de Vetores de Suporte - SVM](https://www.youtube.com/watch?v=4Zh7UeHqHvc)
 - [SVM - Support Vector Machine Linear, Não Linear - Teoria](https://www.youtube.com/watch?v=cB__Oa85htg)
 
-## Regressão linear
+## Regressão Linear
 - [Regressão linear simples](https://medium.com/ensina-ai/regress%C3%A3o-linear-simples-4cac67c4488c)
 - [Regressão Linear (Parte 1) - Machine Learning em Português (Aula 12)](https://www.youtube.com/watch?v=MgtIdBrf0v8)
 - [Regressão Linear (Parte 2) - Machine Learning (Aula 13)](https://www.youtube.com/watch?v=jh4m0WN-n48)
 - [Machine Learning (Aula 21) - Regressão Linear no R](https://www.youtube.com/watch?v=Km1HoKVkd6k)
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Regressão%20Linear.ipynb)
+
+## Regressão Multivariada
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Regressão%20Multilinear.ipynb)
+
+## Regressão Polinomial
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Regressão%20Polinomial.ipynb)
 
 ## Perceptron
 - [Redes neurais roots #1 — introdução](https://medium.com/ensina-ai/redes-neurais-roots-1-introdu%C3%A7%C3%A3o-ffdd6f8b9f01)
@@ -142,7 +151,7 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Máquinas de vetores-suporte ](ftp://ftp.dca.fee.unicamp.br/pub/docs/vonzuben/ia353_1s13/topico8_1s2013.pdf)
 - [Máquina de vetores de suporte(código)](http://artificiencia.com/aprenda/maquina-de-vetores-de-suporte/)
 
-## Regressão logística
+## Regressão Logística
 - [O que é uma regressão logística?](http://carloscollares.blogspot.com/2011/05/o-que-e-uma-regressao-logistica.html)
 - [EB - Aula 6 Teórica - Regressão logística](https://www.youtube.com/watch?v=Fs8LhzhEMwI)
 - [EB - Aula 6 prática - Regressão Logística](https://www.youtube.com/watch?v=CVL5vj1N1U8)
@@ -175,4 +184,4 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Redes Neurais Recorrentes(tem código)](https://www.youtube.com/watch?v=bDDP0m4jjH0)
 - [Keras - Usando redes neurais LSTM para classificar sentimentos](https://www.youtube.com/watch?v=bIcadBu--u8)
 
-# Machine learning não superviosionado
+# Machine learning Não-Supervisionado
