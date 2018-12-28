@@ -185,3 +185,12 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Keras - Usando redes neurais LSTM para classificar sentimentos](https://www.youtube.com/watch?v=bIcadBu--u8)
 
 # Machine learning Não-Supervisionado
+
+## Análise de Componentes Principais (PCA)
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/PCA.ipynb)
+
+## Análise Discriminante Linear (LDA)
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/LDA.ipynb)
+
+## k-Means
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/K-Means.ipynb)
