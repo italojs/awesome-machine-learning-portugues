@@ -45,7 +45,8 @@ Agora vamos estudar machine learning até o talo! :punch:
     - [Função de custo](#Função-de-custo)
     - [Gradient Descent](#Gradient-Descent)
     - [Multilayer perceptron](#Multilayer-perceptron)
-    - [Redes neurais convolucionais](#Redes-neurais-convolucionais)
+    - [Redes neurais convolucionais](#Redes-neurais-convolucionais)]
+    - [Adaboost](#Adaboost)
     - [Rede neurais recorrentes](#Rede-neurais-recorrentes)
 - [Machine learning não superviosionado](#Machine-learning-não-superviosionado)
 ---
@@ -95,9 +96,6 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Machine Learning em Português (Aula 8) - Modelo de Classificação de Íris Parte 1](https://www.youtube.com/watch?v=WRQmC8QU_YU)
 
 # Machine Learning Supervisionado
-
-## Adaboost
-- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Adaboost.ipynb)
 
 ## Árvore de Decisão
 - [Árvores de Decisão](https://medium.com/machine-learning-beyond-deep-learning/%C3%A1rvores-de-decis%C3%A3o-3f52f6420b69)
@@ -179,6 +177,9 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Parametrização de redes neurais profundas](https://www.youtube.com/watch?v=qDmKwmkc4vs&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=7)
 
 - Extra: [Arquiteturas de redes neurais profundas para detecção de objetos](https://www.youtube.com/watch?v=BhwppCyV2iI&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=8)
+ 
+ ## Adaboost
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Adaboost.ipynb)
 
 ## Rede Neurais Recorrentes
 - [Redes Neurais Recorrentes (RNN) - LSTM, GRU, Seq2seq e Mecanismos de atenção](https://www.youtube.com/watch?v=94hG00EJFNo&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=6)
