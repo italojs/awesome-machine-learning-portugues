@@ -94,22 +94,26 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Machine Learning (Aula 7) - Modelos de Predição](https://www.youtube.com/watch?v=2vRUdnQ1X74&t=278s)
 - [Machine Learning em Português (Aula 8) - Modelo de Classificação de Íris Parte 1](https://www.youtube.com/watch?v=WRQmC8QU_YU)
 
-# Machine learning superviosionado
+# Machine Learning Supervisionado
 
-## Árvore de decisão
+## Adaboost
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Adaboost.ipynb)
 
+## Árvore de Decisão
 - [Árvores de Decisão](https://medium.com/machine-learning-beyond-deep-learning/%C3%A1rvores-de-decis%C3%A3o-3f52f6420b69)
 - [ÁRVORE DE DECISÃO. EXEMPLO COMPLETO](https://www.youtube.com/watch?v=_ICNdRrl68k)
 - [Um tutorial completo sobre modelagem baseada em árvores de decisão (códigos R e Python)](https://www.vooo.pro/insights/um-tutorial-completo-sobre-a-modelagem-baseada-em-tree-arvore-do-zero-em-r-python/)
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Decision%20Trees.ipynb)
 
-## KNN
+## KNN - K-Vizinhos Mais Próximos (_K-Nearest Neighbors_)
 - [KNN (K-Nearest Neighbors) #1](https://medium.com/brasil-ai/knn-k-nearest-neighbors-1-e140c82e9c4e)
 - [KNN (K-Nearest Neighbors) #2](https://medium.com/brasil-ai/knn-k-nearest-neighbors-2-f2ab9e5662b)
 - [KNN #3 — Codando nosso classificador de câncer de mama](https://medium.com/brasil-ai/knn-3-codando-nosso-classificador-de-câncer-de-mama-eadd3b41b54b)
 - [Machine Learning em Português (Aula 11) - Explicando K-NN (Regressão e Classificação)](https://www.youtube.com/watch?v=bzIsfLgTEQw)
 - [Machine Learning em Português (Aula 15) - K-Nearest Neighbors (Regressão - Parte 2)](https://www.youtube.com/watch?v=Cz6NCHSY0Z0)
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/KNN.ipynb)
 
-## Naive bayes
+## Naive Bayes
 - [Teorema de Bayes](https://www.youtube.com/watch?v=9OOZf4klOeM)
 - [Teorema de Bayes - Aula 1: Características (Probabilidade a Priori, Condicional e Conjunta)](https://www.youtube.com/watch?v=78R1yNVGnSk&t=244s)
 - [Teorema de Bayes - Aula 2: a Posteriori](https://www.youtube.com/watch?v=mTfI6ggVNyQ&list=PL4OAe-tL47sadpBP4atfVFBbKm-Fh160J&index=2)
@@ -122,17 +126,24 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Naive Bayes | Carlos Baldove | Papo Reto](https://www.youtube.com/watch?v=3HJVRBEMwoU)
 - [Classificador Naive bayes em 50 linhas](https://imasters.com.br/desenvolvimento/classificador-naive-bayes-em-50-linhas)
 
-## Support vector machine(SVM)
+## SVM - Máquina de Vetores de Suporte (_Support Vector Machine_)
 - [Uma Introdução às Support Vector Machines](https://www.mql5.com/pt/articles/584)
 - [Explicar o algoritmo SVR](https://pt.stackoverflow.com/a/40149/20728)
 - [Máquina de Vetores de Suporte - SVM](https://www.youtube.com/watch?v=4Zh7UeHqHvc)
 - [SVM - Support Vector Machine Linear, Não Linear - Teoria](https://www.youtube.com/watch?v=cB__Oa85htg)
 
-## Regressão linear
+## Regressão Linear
 - [Regressão linear simples](https://medium.com/ensina-ai/regress%C3%A3o-linear-simples-4cac67c4488c)
 - [Regressão Linear (Parte 1) - Machine Learning em Português (Aula 12)](https://www.youtube.com/watch?v=MgtIdBrf0v8)
 - [Regressão Linear (Parte 2) - Machine Learning (Aula 13)](https://www.youtube.com/watch?v=jh4m0WN-n48)
 - [Machine Learning (Aula 21) - Regressão Linear no R](https://www.youtube.com/watch?v=Km1HoKVkd6k)
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Regressão%20Linear.ipynb)
+
+## Regressão Multivariada
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Regressão%20Multilinear.ipynb)
+
+## Regressão Polinomial
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Regressão%20Polinomial.ipynb)
 
 ## Perceptron
 - [Redes neurais roots #1 — introdução](https://medium.com/ensina-ai/redes-neurais-roots-1-introdu%C3%A7%C3%A3o-ffdd6f8b9f01)
@@ -142,37 +153,45 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - [Máquinas de vetores-suporte ](ftp://ftp.dca.fee.unicamp.br/pub/docs/vonzuben/ia353_1s13/topico8_1s2013.pdf)
 - [Máquina de vetores de suporte(código)](http://artificiencia.com/aprenda/maquina-de-vetores-de-suporte/)
 
-## Regressão logística
+## Regressão Logística
 - [O que é uma regressão logística?](http://carloscollares.blogspot.com/2011/05/o-que-e-uma-regressao-logistica.html)
 - [EB - Aula 6 Teórica - Regressão logística](https://www.youtube.com/watch?v=Fs8LhzhEMwI)
 - [EB - Aula 6 prática - Regressão Logística](https://www.youtube.com/watch?v=CVL5vj1N1U8)
 - [Você sobreviveria no Titanic? Um exemplo de Regressão Logística](http://www.abgconsultoria.com.br/blog/voce-sobreviveria-no-titanic-um-exemplo-de-regressao-logistica/)
 - [Regressão Logística na Eleição](https://medium.com/@silviocesar_75950/regress%C3%A3o-log%C3%ADstica-na-elei%C3%A7%C3%A3o-3d8011469712)
 
-## Função de custo
+## Função de Custo
 - [Função de Custo (Regressão Linear) - Machine Learning em Português (Aula 14)](https://www.youtube.com/watch?v=jSaJjshIAUw)
 - [Calculando a Função de Custo (Regressão Linear) - Machine Learning (Aula 15)](https://www.youtube.com/watch?v=kHfhMsCoUus)
 - [Valor Mínimo da Função de Custo (Regressão Linear) - Machine Learning (Aula 16)](https://www.youtube.com/watch?v=ikmxun1t-HM)
 
-## Gradient Descent
+## Gradiente Descendente (_Gradient Descent_)
 - [Gradient Descent (Regressão Linear - Parte 1) - Machine Learning (Aula 17)](https://www.youtube.com/watch?v=xdDL_8Sg6JI&t=404s)
 - [Calculando Gradient Descent Parte 1 (Regressão Linear) - Machine Learning (Aula 18)](https://www.youtube.com/watch?v=6lbX-MI5B6M)
 - [Como verificar o Gradient Descent (Regressão Linear) - Machine Learning (Aula 20)](https://www.youtube.com/watch?v=yraCrOa3mzk)
 
-## Multilayer perceptron
+## Multilayer Perceptron
 - [Redes Neurais, Perceptron Multicamadas e o Algoritmo Backpropagation](https://medium.com/ensina-ai/redes-neurais-perceptron-multicamadas-e-o-algoritmo-backpropagation-eaf89778f5b8)
 
-## Redes neurais convolucionais
+## Redes Neurais Convolucionais
 - [Redes Neurais profundas Convolucionais - Parte I - Fundamentos](https://www.youtube.com/watch?v=n4rmrZg1_58&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=5&t=1s)
 - [Redes Neurais profundas Convolucionais - Parte II - Arquiteturas Modernas](https://www.youtube.com/watch?v=0XUrLfQXzcw&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=5)
 - [Parametrização de redes neurais profundas](https://www.youtube.com/watch?v=qDmKwmkc4vs&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=7)
 
-
 - Extra: [Arquiteturas de redes neurais profundas para detecção de objetos](https://www.youtube.com/watch?v=BhwppCyV2iI&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=8)
 
-## Rede neurais recorrentes
+## Rede Neurais Recorrentes
 - [Redes Neurais Recorrentes (RNN) - LSTM, GRU, Seq2seq e Mecanismos de atenção](https://www.youtube.com/watch?v=94hG00EJFNo&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=6)
 - [Redes Neurais Recorrentes(tem código)](https://www.youtube.com/watch?v=bDDP0m4jjH0)
 - [Keras - Usando redes neurais LSTM para classificar sentimentos](https://www.youtube.com/watch?v=bIcadBu--u8)
 
-# Machine learning não superviosionado
+# Machine Learning Não-Supervisionado
+
+## PCA - Análise de Componentes Principais (_Principal Component Analysis_)
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/PCA.ipynb)
+
+## LDA - Análise Discriminante Linear (_Linear Discriminant Analysis_)
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/LDA.ipynb)
+
+## K-Médias (_K-Means_)
+- [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/K-Means.ipynb)
