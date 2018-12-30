@@ -179,6 +179,7 @@ Para aprender machine learning, você terá de aprender matemática, mas não se
 - Extra: [Arquiteturas de redes neurais profundas para detecção de objetos](https://www.youtube.com/watch?v=BhwppCyV2iI&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&index=8)
  
  ## Adaboost
+- [Estudo do algoritmo adaboost de aprendizagem de máquina aplicado a sensores e sistemas embarcados](http://www.teses.usp.br/teses/disponiveis/3/3152/tde-12062012-163740/pt-br.php)
 - [Implementação em Python](https://github.com/arnaldog12/Machine_Learning/blob/master/Adaboost.ipynb)
 
 ## Rede Neurais Recorrentes
