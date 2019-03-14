@@ -22,7 +22,7 @@ Por favor, sinta-se livre para fazer qualquer contribuição que você achar que
 
 ## Alfinetada/lembrete
 
-Fulano(a), sei que não é fácil aprender inglês, mas só queria lembrar que você está perdendo MUITO conteúdo em não focar nessa língua, você perde muito conteúdo e o assuntos que consegue estudar em inglês muito provavelmente são assuntos atrasado, se você estudasse tudo isso em inglês, você verias o quádruplo de contéudo, não quero que você pare de estudar machine learning (programação em geral na verdade), mas olha, começa a se cobra um pouco mais nese ponto :wink:
+Fulano(a), sei que não é fácil aprender inglês, mas só queria lembrar que você está perdendo MUITO conteúdo em não focar nessa língua, você perde muito conteúdo e os assuntos que não consegue estudar em inglês, muito provavelmente são assuntos atrasados, se você estudasse tudo isso em inglês veria o quádruplo de contéudo. Não quero que você pare de estudar machine learning (programação em geral na verdade), mas olha, começe a se cobrar um pouco mais nese ponto :wink:
 
 Agora vamos estudar machine learning até o talo! :punch:
 
