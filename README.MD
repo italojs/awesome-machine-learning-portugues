@@ -7,7 +7,7 @@ A diferença é aqui aqui você encontrará conteúdos em português para seus e
 
 _Se você gostou deste projeto, por favor me dê uma estrela_ &#9733; _e ajude a divulgar o material._ ;)
 
-<a href="https://twitter.com/intent/tweet?text=Plano%20de%20estudos%20para%20Machine%20Learning%20com%20cont%C3%BAdos%20em%20portugu%C3%AAs%20https://github.com/italojs/awesome-machine-learning-portugues" target="_blank">
+<a href="https://twitter.com/intent/tweet?text=Plano%20de%20estudos%20para%20Machine%20Learning%20com%20conte%C3%BAdos%20em%20portugu%C3%AAs%20https://github.com/italojs/awesome-machine-learning-portugues" target="_blank">
 Compartilhe no Twitter</a> :bird:
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
